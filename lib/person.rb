@@ -18,4 +18,3 @@ class Person
 
 end
 
-puts @name
